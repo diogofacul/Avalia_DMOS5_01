@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calculadora de Promedios</string>
+    <string name="por_favor_digite_um_peso_v_lido">Por favor, ingrese un peso válido</string>
+    <string name="lista_de_pesos_limpa">Lista de pesos vaciada</string>
+    <string name="pesos">pesos</string>
+    <string name="adicionar_peso">Agregar Peso</string>
+    <string name="limpar_lista">Limpiar Lista</string>
+    <string name="digite_um_peso">Ingrese un peso</string>
+    <string name="digite_um_valor">Ingrese un valor</string>
+    <string name="adicionar_valor">Agregar Valor</string>
+    <string name="por_favor_digite_um_valor_v_lido">Por favor, ingrese un valor válido</string>
+    <string name="lista_de_valores_limpa">Lista de valores vaciada</string>
+    <string name="adicionar_pesos">Agregar Pesos</string>
+    <string name="calcular_m_dia">Calcular Promedio</string>
+    <string name="ajuda">Ayuda</string>
+    <string name="adicionar_valores">Agregar Valores</string>
+    <string name="calcular">Calcular</string>
+    <string name="ajuda_m_dia_harm_nica">Ayuda Promedio Armonico</string>
+    <string name="ajuda_m_dia_ponderada">Ayuda Promedio Ponderado</string>
+    <string name="ajuda_m_dia_aritm_tica">Ayuda Promedio Aritmético</string>
+    <string name="aritm_tica">Aritmético</string>
+    <string name="ponderada">Ponderado</string>
+    <string name="harm_nica">Armonico</string>
+    <string name="necess_rio_preencher_todos_os_dados_corretamente">Es necesario completar todos los datos correctamente</string>
+    <string name="resultado">Resultado</string>
+    <string-array name="tipos_de_media">
+        <item>Aritmético</item>
+        <item>Ponderado</item>
+        <item>Armonico</item>
+    </string-array>
+</resources>

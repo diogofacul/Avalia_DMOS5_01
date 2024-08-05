@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de Médias</string>
+    <string name="por_favor_digite_um_peso_v_lido">Por favor, digite um peso válido</string>
+    <string name="lista_de_pesos_limpa">Lista de pesos limpa</string>
+    <string name="pesos">pesos</string>
+    <string name="adicionar_peso">Adicionar Peso</string>
+    <string name="limpar_lista">Limpar Lista</string>
+    <string name="digite_um_peso">Digite um peso</string>
+    <string name="digite_um_valor">Digite um valor</string>
+    <string name="adicionar_valor">Adicionar Valor</string>
+    <string name="por_favor_digite_um_valor_v_lido">Por favor, digite um valor válido</string>
+    <string name="lista_de_valores_limpa">Lista de valores limpa</string>
+    <string name="adicionar_pesos">Adicionar Pesos</string>
+    <string name="calcular_m_dia">Calcular Média</string>
+    <string name="ajuda">Ajuda</string>
+    <string name="adicionar_valores">Adicionar Valores</string>
+    <string name="calcular">Calcular</string>
+    <string name="ajuda_m_dia_harm_nica">Ajuda Média Harmônica</string>
+    <string name="ajuda_m_dia_ponderada">Ajuda Média Ponderada</string>
+    <string name="ajuda_m_dia_aritm_tica">Ajuda Média Aritmética</string>
+    <string name="aritm_tica">Aritmética</string>
+    <string name="ponderada">Ponderada</string>
+    <string name="harm_nica">Harmônica</string>
+    <string name="necess_rio_preencher_todos_os_dados_corretamente">É necessário preencher todos os dados corretamente</string>
+    <string name="resultado">Resultado</string>
+    <string-array name="tipos_de_media">
+        <item>Aritmética</item>
+        <item>Ponderada</item>
+        <item>Harmônica</item>
+    </string-array>
+</resources>

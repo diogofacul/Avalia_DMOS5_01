@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Average Calculator</string>
+    <string name="por_favor_digite_um_peso_v_lido">Please enter a valid weight</string>
+    <string name="lista_de_pesos_limpa">Weight list cleared</string>
+    <string name="pesos">weights</string>
+    <string name="adicionar_peso">Add Weight</string>
+    <string name="limpar_lista">Clear List</string>
+    <string name="digite_um_peso">Enter a weight</string>
+    <string name="digite_um_valor">Enter a value</string>
+    <string name="adicionar_valor">Add Value</string>
+    <string name="por_favor_digite_um_valor_v_lido">Please enter a valid value</string>
+    <string name="lista_de_valores_limpa">Value list cleared</string>
+    <string name="adicionar_pesos">Add Weights</string>
+    <string name="calcular_m_dia">Calculate Average</string>
+    <string name="ajuda">Help</string>
+    <string name="adicionar_valores">Add Values</string>
+    <string name="calcular">Calculate</string>
+    <string name="ajuda_m_dia_harm_nica">Harmonic Mean Help</string>
+    <string name="ajuda_m_dia_ponderada">Weighted Mean Help</string>
+    <string name="ajuda_m_dia_aritm_tica">Arithmetic Mean Help</string>
+    <string name="aritm_tica">Arithmetic</string>
+    <string name="ponderada">Weighted</string>
+    <string name="harm_nica">Harmonic</string>
+    <string name="necess_rio_preencher_todos_os_dados_corretamente">All data must be filled in correctly</string>
+    <string name="resultado">Result</string>
+    <string-array name="tipos_de_media">
+        <item>Arithmetic</item>
+        <item>Weighted</item>
+        <item>Harmonic</item>
+    </string-array>
+</resources>
